@@ -44,7 +44,11 @@ In OOP everything is based on concept of object.
 
 ---
 
-* **Composition** (strong HAS-A Relationship) owner object contains member objects as a part of its state. 
+* **Composition** (strong HAS-A Relationship) owner object contains member objects as a part of its state.
+  * strong because the member objects cannot exist without the owner object.
+  * example: a building has rooms, a room belongs to a building.
+  * if the building destroyed then all rooms will be destroyed with it.
+  * but we can destroy a room and the building still exist.
 ![](https://github.com/shamy1st/oop/blob/main/composition.png)
 
 * **Aggregation** (weak HAS-A Relationship) owner object contains member objects as a part of its state.
