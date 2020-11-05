@@ -73,6 +73,13 @@ In OOP everything is based on concept of object.
 
 * **Access Modifiers**
 
+modifier  | class | package | subclass | global
+----------|-------|---------|----------|-------
+public    | Yes   | Yes     | Yes      | Yes
+protected | Yes   | Yes     | Yes      | -
+default   | Yes   | Yes     | -        | -
+private   | Yes   | -       | -        | -
+
 * **Abstract Class**
 
 * **Abstract Method**
