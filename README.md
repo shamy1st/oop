@@ -7,3 +7,5 @@ In OOP everything is based on concept of object.
 |---------|
 |Data     |
 |Behaviour|
+
+* **Class** is a blueprint(template) for creating object.
