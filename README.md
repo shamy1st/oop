@@ -80,15 +80,18 @@ protected | Yes   | Yes     | Yes      | -
 default   | Yes   | Yes     | -        | -
 private   | Yes   | -       | -        | -
 
-* **Abstract Class**
+* **Abstract Class** a class that cannot be instantiated.
 
-* **Abstract Method**
+* **Abstract Method** a method declaration in abstract class without implementation.
+  * should be implemented in non-abstract sub-class.
 
-* **Final Class**
+* **Final Class** a class that cannot be extended. / its instances are immutable.
 
-* **Final Method**
+* **Final Method** a method that cannot be override.
 
-* **Multi-Inheritance**
+* **Multi-Inheritance** is not supported in Java / because of Diamond problem and Simplicity.
 
 * **Upcasting & Downcasting**
+  * upcasting: casting an object to one of it super types.
+  * downcasting: casting an object to one of its sub types.
 
