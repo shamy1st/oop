@@ -17,8 +17,8 @@ In OOP everything is based on concept of object.
 * **Inheritance** (IS-A Relationship) one class (child) inherits all fields and methods of a parent class.
 
 * **Polymorphism** (many forms) perform a single action in different ways.
-  * **compile-time polymorphism**: by method overloading.
-  * **runtime polymorphism**: by method overriding.
+  * **compile-time** polymorphism: by method overloading.
+  * **runtime** polymorphism: by method overriding.
 
 ---
 
@@ -44,5 +44,6 @@ In OOP everything is based on concept of object.
 
 ---
 
-* **Interface** 
+* **Interface** is the contract between the class and the outside world.
+  * used to build **loosely-coupled**, **extensible**, **testable** applications.
 
