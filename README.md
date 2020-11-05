@@ -20,8 +20,8 @@ In OOP everything is based on concept of object.
   * **compile-time polymorphism**: by method overloading.
   * **runtime polymorphism**: by method overriding.
 
-* **Composition**
+* **Composition** (strong HAS-A Relationship) owner object contains member objects as a part of its state. 
 
-* **Aggregation**
+* **Aggregation** (weak HAS-A Relationship) owner object contains member objects as a part of its state.
 
-* **Association**
+* **Association** the objects only "know" each others.
