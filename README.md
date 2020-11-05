@@ -34,6 +34,14 @@ In OOP everything is based on concept of object.
     * setter injection
     * method injection
   * Spring is one of popular frameworks that provide **DI**.
+
+* **Interface** is the contract between the class and the outside world.
+  * used to build **loosely-coupled**, **extensible**, **testable** applications.
+  * advantages:
+    * test your classes in isolation. (unit testing)
+    * extend your application. (with minimal impact)
+    * swap implementation with another. (with minimal impact)
+
 ---
 
 * **Composition** (strong HAS-A Relationship) owner object contains member objects as a part of its state. 
@@ -47,10 +55,4 @@ In OOP everything is based on concept of object.
 
 ---
 
-* **Interface** is the contract between the class and the outside world.
-  * used to build **loosely-coupled**, **extensible**, **testable** applications.
-  * advantages:
-    * test your classes in isolation. (unit testing)
-    * extend your application. (with minimal impact)
-    * swap implementation with another. (with minimal impact)
 
