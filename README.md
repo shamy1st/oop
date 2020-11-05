@@ -20,6 +20,14 @@ In OOP everything is based on concept of object.
   * **compile-time polymorphism**: by method overloading.
   * **runtime polymorphism**: by method overriding.
 
+---
+
+* **Coupling** the level of dependency between classes.
+
+* **Dependency Injection** is a technique that removes the dependency from the code.
+
+---
+
 * **Composition** (strong HAS-A Relationship) owner object contains member objects as a part of its state. 
 
 * **Aggregation** (weak HAS-A Relationship) owner object contains member objects as a part of its state.
@@ -28,9 +36,5 @@ In OOP everything is based on concept of object.
 
 ---
 
-* **Coupling** the level of dependency between classes.
-
 * **Interface** 
-
-* **Dependency Injection**
 
