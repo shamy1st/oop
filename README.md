@@ -8,4 +8,4 @@ In OOP everything is based on concept of object.
 |Data     |
 |Behaviour|
 
-* **Class** is a blueprint(template) for creating object.
+* **Class** is a blueprint(template) for creating object. / **Object** an instance of a class.
