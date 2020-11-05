@@ -25,3 +25,12 @@ In OOP everything is based on concept of object.
 * **Aggregation** (weak HAS-A Relationship) owner object contains member objects as a part of its state.
 
 * **Association** the objects only "know" each others.
+
+---
+
+* **Coupling** the level of dependency between classes.
+
+* **Interface** 
+
+* **Dependency Injection**
+
