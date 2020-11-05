@@ -37,10 +37,13 @@ In OOP everything is based on concept of object.
 ---
 
 * **Composition** (strong HAS-A Relationship) owner object contains member objects as a part of its state. 
+![](https://github.com/shamy1st/oop/blob/main/composition.png)
 
 * **Aggregation** (weak HAS-A Relationship) owner object contains member objects as a part of its state.
+![](https://github.com/shamy1st/oop/blob/main/aggregation.png)
 
 * **Association** the objects only "know" each others.
+![](https://github.com/shamy1st/oop/blob/main/association.png)
 
 ---
 
