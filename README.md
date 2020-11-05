@@ -58,9 +58,30 @@ In OOP everything is based on concept of object.
 
 * **Association** the objects only "know" each others.
   * isn't "HAS-A" Relationship/ the weakest relationship / none of the object is part or member of another.
-  * example: mother an her child.
+  * example: mother and her child.
 ![](https://github.com/shamy1st/oop/blob/main/association.png)
 
 ---
 
+### OOP Benefits
+* Reduce Complexity (breaking down a large complex application into smaller objects)
+* Easier Maitenance
+* Code Reuse
+* Faster Development
+
+---
+
+* **Access Modifiers**
+
+* **Abstract Class**
+
+* **Abstract Method**
+
+* **Final Class**
+
+* **Final Method**
+
+* **Multi-Inheritance**
+
+* **Upcasting & Downcasting**
 
