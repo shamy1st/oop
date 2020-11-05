@@ -46,4 +46,8 @@ In OOP everything is based on concept of object.
 
 * **Interface** is the contract between the class and the outside world.
   * used to build **loosely-coupled**, **extensible**, **testable** applications.
+  * advantages:
+    * test your classes in isolation. (unit testing)
+    * extend your application. (with minimal impact)
+    * swap implementation with another. (with minimal impact)
 
