@@ -63,11 +63,11 @@ In OOP everything is based on concept of object.
 
 ---
 
-### OOP Benefits
-* Reduce Complexity (breaking down a large complex application into smaller objects)
-* Easier Maitenance
-* Code Reuse
-* Faster Development
+* **OOP Benefits**
+  * Reduce Complexity (breaking down a large complex application into smaller objects)
+  * Easier Maitenance
+  * Code Reuse
+  * Faster Development
 
 ---
 
