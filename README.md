@@ -52,9 +52,13 @@ In OOP everything is based on concept of object.
 ![](https://github.com/shamy1st/oop/blob/main/composition.png)
 
 * **Aggregation** (weak HAS-A Relationship) owner object contains member objects as a part of its state.
+  * weak because the member objects can exist without the owner object.
+  * example: a car has wheels / we can take off the wheels, and they'll still exist.
 ![](https://github.com/shamy1st/oop/blob/main/aggregation.png)
 
 * **Association** the objects only "know" each others.
+  * isn't "HAS-A" Relationship/ the weakest relationship / none of the object is part or member of another.
+  * example: mother an her child.
 ![](https://github.com/shamy1st/oop/blob/main/association.png)
 
 ---
