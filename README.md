@@ -28,7 +28,12 @@ In OOP everything is based on concept of object.
   * you should reduce coupling as you can by **Abstraction**.
 
 * **Dependency Injection** is a technique that removes the dependency from the code.
-
+  * so, it can be easy to manage and test the application.
+  * class shouldn't instantiate their dependencies.
+    * constructor injection
+    * setter injection
+    * method injection
+  * Spring is one of popular frameworks that provide **DI**.
 ---
 
 * **Composition** (strong HAS-A Relationship) owner object contains member objects as a part of its state. 
