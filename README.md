@@ -23,6 +23,9 @@ In OOP everything is based on concept of object.
 ---
 
 * **Coupling** the level of dependency between classes.
+ * class **A** uses class **B** / **A** couple with **B**.
+ * each modification in class **B** cause modification in class **A**.
+ * you should reduce coupling as you can by **Abstraction**.
 
 * **Dependency Injection** is a technique that removes the dependency from the code.
 
