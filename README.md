@@ -71,7 +71,7 @@ In OOP everything is based on concept of object.
 
 ---
 
-* **Access Modifiers**
+* **Java Access Modifiers**
 
 modifier  | class | package | subclass | global
 ----------|-------|---------|----------|-------
