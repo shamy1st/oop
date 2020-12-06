@@ -63,6 +63,12 @@ In OOP everything is based on concept of object.
 
 ---
 
+* **Cohesion** a class is designed with a single, well-focused purpose.
+  * **high cohesion** is a single purpose, high focused class.
+  * **low cohesion** is a multi-purpose class.
+
+---
+
 * **OOP Benefits**
   * Reduce Complexity (breaking down a large complex application into smaller objects)
   * Easier Maitenance
